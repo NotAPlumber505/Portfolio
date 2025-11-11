@@ -161,9 +161,9 @@
   },
   {
     "id": "instaparse",
-    "title": "Instaparse Clone",
+    "title": "Instaparse",
     "subtitle": "Instagram-Style Social Media App",
-    "date": "iOS102 Project",
+    "date": "Sep. 2025",
     "categories": ["Mobile Development"],
     "tech": ["Swift", "Storyboard", "PHPicker", "CLLocationManager", "iOS Development"],
     "highlights": [
@@ -182,7 +182,7 @@
     "id": "moodify",
     "title": "Moodify",
     "subtitle": "Mood-Based Music Recommendation",
-    "date": "SHA Career Project",
+    "date": "Mar. 2025 - Apr. 2025",
     "categories": ["Data Visualization"],
     "tech": ["Python", "Streamlit", "Machine Learning"],
     "highlights": [
