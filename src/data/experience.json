@@ -1,0 +1,101 @@
+[
+  {
+    "id": "tech-talent",
+    "title": "Project Manager & Peer Advisor",
+    "company": "FIU Tech Talent Academy",
+    "type": "Part-time",
+    "period": "Aug 2025 - Present",
+    "duration": "4 mos",
+    "location": "Miami, FL · On-site",
+    "highlights": [
+      "Mentored 15+ students contributing 30+ bug fixes, features, and documentation to Baserow (3k+ stars), an Airtable alternative",
+      "Delivered 5 end-to-end products on Baserow stack (Django, Nuxt.js, PostgreSQL, Docker)",
+      "Boosted onboarding and team velocity by 25% through structured sprints and CI/CD pipelines",
+      "Directed implementation of 30+ full-stack features across 5 Agile teams"
+    ],
+    "skills": ["Django", "Nuxt.js", "PostgreSQL", "Docker", "Git", "Agile", "CI/CD"]
+  },
+  {
+    "id": "treasurer",
+    "title": "Treasurer",
+    "company": "Geek Culture Club - FIU",
+    "type": "Part-time",
+    "period": "Jan 2025 - Present",
+    "duration": "11 mos",
+    "location": "Miami, FL · Hybrid",
+    "highlights": [
+      "Managed finances for 1,000-member student organization",
+      "Reduced budget discrepancies by 50% with automated tracking",
+      "Cut operational costs by 25% through vendor negotiations",
+      "Led funding proposals and organized large-scale campus events"
+    ],
+    "skills": ["Budgeting", "Financial Planning", "Microsoft Excel", "Event Planning"]
+  },
+  {
+    "id": "teaching-assistant",
+    "title": "Teaching Assistant",
+    "company": "FIU - College of Engineering & Computing",
+    "type": "Part-time",
+    "period": "Jan 2025 - Sep 2025",
+    "duration": "9 mos",
+    "location": "Miami, FL · Hybrid",
+    "highlights": [
+      "Supported 60+ students in Java, C, and Python programming",
+      "Reduced debugging time by 40% through structured troubleshooting strategies",
+      "Increased course completion rates by 20% with practice exercises and review sessions",
+      "Tracked 300+ assignments with MySQL database, reducing grading time by 2+ hours/day",
+      "Boosted lab participation to 95% through demo videos and interactive exercises"
+    ],
+    "skills": ["Java", "C", "Python", "Data Structures", "MySQL", "Teaching"]
+  },
+  {
+    "id": "id-tech",
+    "title": "Online Instructor",
+    "company": "iD Tech Camps",
+    "type": "Part-time",
+    "period": "May 2025 - Aug 2025",
+    "duration": "4 mos",
+    "location": "Campbell, CA · Remote",
+    "highlights": [
+      "Delivered 50+ hours of coding instruction to 25 students (ages 7-18)",
+      "Designed 20+ original projects introducing software engineering and game design",
+      "Achieved 100% student satisfaction in one-on-one and group instruction",
+      "Created cross-platform lesson plans across 6+ languages and 3+ game engines"
+    ],
+    "skills": ["Java", "C++", "Python", "Unity", "Godot", "Scratch", "Teaching", "Instructional Design"]
+  },
+  {
+    "id": "nsf-research",
+    "title": "AI & IoT Research Engineer",
+    "company": "National Science Foundation (NSF)",
+    "type": "Part-time",
+    "period": "Feb 2025 - Jul 2025",
+    "duration": "6 mos",
+    "location": "Miami, FL · Remote",
+    "highlights": [
+      "Increased dataset processing speed by 30% using parallel computing",
+      "Parsed 30,000+ rows across 6 ML models in under 1 second",
+      "Boosted IoT ML model confidence from 30% to 80%",
+      "Designed interactive Streamlit dashboard improving usability by 35%",
+      "Increased user satisfaction by 40% through modular APIs and automated testing"
+    ],
+    "skills": ["Python", "TensorFlow", "PyTorch", "Streamlit", "Pandas", "Plotly"]
+  },
+  {
+    "id": "chibur",
+    "title": "Graphic Design Intern",
+    "company": "Chibur: The Connection Company",
+    "type": "Internship",
+    "period": "Aug 2021 - Jun 2022",
+    "duration": "11 mos",
+    "location": "Cutler Bay, FL · Remote",
+    "highlights": [
+      "Designed 10+ custom logos and 20+ promotional flyers for startup clients",
+      "Edited weekly video snippets for Instagram and TikTok",
+      "Improved average view time by 25%",
+      "Maintained 100% on-time delivery with creative team",
+      "Contributed to 15% follower growth over 3 months"
+    ],
+    "skills": ["Graphic Design", "Video Editing", "Social Media Marketing"]
+  }
+]

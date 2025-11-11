@@ -1,0 +1,25 @@
+{
+  "degree": {
+    "institution": "Florida International University",
+    "degree": "B.S. in Computer Science",
+    "location": "Miami, FL",
+    "gpa": "3.9/4.0",
+    "expected": "Dec. 2025"
+  },
+  "coursework": [
+    "Data Structures & Algorithms",
+    "Software Engineering",
+    "Internship-Ready Software Development",
+    "Operating Systems (Objective-C)",
+    "Database Management (PostgreSQL)",
+    "Capstone"
+  ],
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C/C++", "SQL", "Swift", "Kotlin", "HTML", "CSS"],
+    "frontend": ["React", "Next.js", "Nuxt.js", "Tailwind", "SwiftUI", "Streamlit"],
+    "backend": ["Node.js", "Express", "Django", "Flask", "Spring Boot", "REST APIs"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+    "devops": ["Docker", "Git/GitHub", "Jira", "Trello", "Postman", "Vite", "Faker.js"],
+    "ml": ["PyTorch", "TensorFlow", "pandas", "NumPy", "scikit-learn", "Matplotlib", "Plotly"]
+  }
+}

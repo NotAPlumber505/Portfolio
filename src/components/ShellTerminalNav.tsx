@@ -8,6 +8,7 @@ type Item = { id: string; label: string; path: string };
 const ShellTerminalNav: FC = () => {
   const items: Item[] = [
     { id: "about", label: "About", path: "/" },
+    { id: "experience", label: "Experience", path: "/experience" },
     { id: "education", label: "Education & Skills", path: "/education" },
     { id: "projects", label: "Projects", path: "/projects" },
     { id: "contact", label: "Contact", path: "/contact" },
@@ -15,9 +16,6 @@ const ShellTerminalNav: FC = () => {
 
   const navigate = useNavigate();
   const location = useLocation();
-
-  // show only when NOT on the home route
-  if (location.pathname === "/") return null;
 
   const onEnter = (index: number) => {
     const path = items?.[index]?.path;
@@ -29,8 +27,11 @@ const ShellTerminalNav: FC = () => {
 
   const activeId = items?.[selectedIndex]?.id ? items[selectedIndex].id + "-nav" : undefined;
 
+  // Hide navbar on the home/about page (return after all hooks are called)
+  if (location.pathname === "/") return null;
+
   return (
-    <nav className="fixed top-20 right-4 z-30">
+    <nav className="hidden lg:block fixed top-1/2 -translate-y-1/2 right-4 z-30">
       <div className="rounded-lg shadow-lg overflow-hidden w-80 bg-[var(--panel)] border border-[var(--border)]">
         <div className="px-4 py-3 flex items-center justify-between text-sm text-[var(--muted)] border-b border-[var(--border)]">
           <span className="font-medium">Navigate</span>
@@ -45,6 +46,7 @@ const ShellTerminalNav: FC = () => {
                 key={it.id}
                 id={it.id + "-nav"}
                 {...(props as any)}
+                onClick={() => navigate(it.path)}
                 className={`cursor-pointer px-4 py-3 text-base rounded ${props.className}`}
               >
                 <span className="font-medium">{it.label}</span>

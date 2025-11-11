@@ -12,8 +12,8 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const [theme, setTheme] = useState<Theme>(() => {
     const stored = typeof window !== "undefined" ? localStorage.getItem("theme") : null;
     if (stored === "dark" || stored === "light") return stored;
-    const prefersDark = typeof window !== "undefined" && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
-    return prefersDark ? "dark" : "light";
+    // Default to dark mode
+    return "dark";
   });
 
   useEffect(() => {

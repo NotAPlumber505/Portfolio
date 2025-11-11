@@ -1,0 +1,266 @@
+[
+  {
+    "id": "mirai",
+    "title": "MirAI",
+    "subtitle": "Scalable Plant Monitoring App",
+    "date": "Nov. 2025",
+    "categories": ["Full-Stack Web", "AI & Machine Learning"],
+    "logo": "/assets/MirAI_light_Logo.png",
+    "tech": ["React", "Tailwind", "TypeScript", "Node.js", "Supabase", "Plant.id API", "Faker.js"],
+    "highlights": [
+      "Developed full-stack plant monitoring app supporting 1,000+ users with React frontend, Node.js/Express backend, and Supabase authentication (CRUD, RLS, OAuth, password reset)",
+      "Managed 5,000+ plant entries with responsive UI and integrated endpoints for health, identification, and growth tracking",
+      "Achieved 93% top suggestion and 98% within top 3 plant ID accuracy during 3-day hackathon",
+      "Validated via Faker.js test data and automated load scripts"
+    ],
+    "github": "https://github.com/NotAPlumber505/MirAI",
+    "demo": "http://mir-ai.vercel.app/"
+  },
+  {
+    "id": "ecoquest",
+    "title": "EcoQuest",
+    "subtitle": "AI-Powered Educational Game",
+    "date": "Sep. 2025",
+    "categories": ["Full-Stack Web", "Game Development", "AI & Machine Learning"],
+    "logo": "/assets/ecoquest.png",
+    "tech": ["Google ADK", "Gemini API", "Python", "Next.js", "Phaser.js", "Tailwind"],
+    "highlights": [
+      "Led 4-person team at ShellHacks 2025 (1,400 participants) with daily standups and Trello task management",
+      "Presented to 10+ sponsors including Google, demonstrating AI-driven quest automation",
+      "Optimized JSON processing time by 10 seconds, reducing response latency by 25%",
+      "Developed 5+ Gemini API endpoints generating 200+ quests and fun facts with AI Agent Architecture",
+      "Generated dynamic content for 1,400+ users using lightweight LLMs"
+    ],
+    "github": "https://github.com/NotAPlumber505/EcoQuest",
+    "demo": "https://devpost.com/software/ecoquest-9yqx0f"
+  },
+  {
+    "id": "doggodex",
+    "title": "DoggoDex",
+    "subtitle": "Interactive Dog Breed Discovery App",
+    "date": "Oct. 2025",
+    "categories": ["Full-Stack Web"],
+    "logo": "/assets/doggodex.png",
+    "tech": ["React", "Vite", "Dog API", "CSS"],
+    "highlights": [
+      "Discover new dog breeds with API fetch requests displaying attributes and images",
+      "Ban list feature to filter search results by specific attributes (breed, temperament, group)",
+      "Scrollable history section to view all previously displayed dog breeds",
+      "Interactive, colorful UI with consistent API response handling",
+      "Built in 3 hours with focus on clean UX and efficient data filtering"
+    ],
+    "github": "https://github.com/NotAPlumber505/DoggoDex",
+    "demo": "https://doggo-dex.netlify.app/",
+    "video": "https://www.youtube.com/watch?v=BHFBSzIXAuA"
+  },
+  {
+    "id": "spoonful-insights",
+    "title": "Spoonful Insights",
+    "subtitle": "Recipe Data Visualization Dashboard",
+    "date": "Oct. 2025",
+    "categories": ["Full-Stack Web", "Data Visualization"],
+    "tech": ["React", "Vite", "Spoontacular API", "Chart.js", "CSS"],
+    "highlights": [
+      "Data dashboard visualizing recipe trends and cuisine statistics with customizable filters",
+      "Detail view for each recipe with unique URL routing and extra information",
+      "Two unique charts analyzing different aspects of recipe dataset",
+      "Collapsible navbar, responsive design, and mobile implementation",
+      "Built in 2 hours with focus on data visualization and UX design"
+    ],
+    "github": "https://github.com/NotAPlumber505/Spoonful-Insights",
+    "demo": "https://spoonful-insights.vercel.app/"
+  },
+  {
+    "id": "usability-testing",
+    "title": "Automated Usability Testing Tool",
+    "subtitle": "Streamlit-Based User Research Platform",
+    "date": "Mar. 2025",
+    "categories": ["Research Tools", "AI & Machine Learning"],
+    "tech": ["Python", "Streamlit", "Pandas", "Plotly"],
+    "highlights": [
+      "Built comprehensive usability testing tool with consent, demographics, task tracking, and exit questionnaires",
+      "Automated data collection and CSV storage for consent, demographics, tasks, and feedback",
+      "Interactive visualizations showing task success rates and user demographics",
+      "Tracks task duration and completion status for real-time analysis",
+      "Modular design enabling easy customization for different research studies"
+    ],
+    "github": "https://github.com/NotAPlumber505/UsabilityTestingApp",
+    "demo": "https://usability-testing-app.streamlit.app/"
+  },
+  {
+    "id": "kinematic-realms",
+    "title": "Kinematic Realms",
+    "subtitle": "Simulated Physics Engine with Unity",
+    "date": "May 2025 - Aug. 2025",
+    "categories": ["Game Development"],
+    "tech": ["Unity", "C#", "Physics Engine", "3D Game Development"],
+    "highlights": [
+      "Capstone project: Interactive educational platform for all ages teaching physics concepts",
+      "Implemented dynamic sandbox with velocity, force, acceleration, and energy simulations",
+      "Developed physics-based Unity 3D game with collaborative teamwork features",
+      "Created interactive demonstrations for educational purposes"
+    ],
+    "github": "https://github.com/sonicrush/Kinematic_Realms",
+    "demo": ""
+  },
+  {
+    "id": "showbox",
+    "title": "ShowBox",
+    "subtitle": "Movie Browsing Android App",
+    "date": "Jul. 2025 - Aug. 2025",
+    "categories": ["Mobile Development"],
+    "logo": "/assets/showbox.png",
+    "tech": ["Kotlin", "Android Studio", "Firebase", "TMDB API"],
+    "highlights": [
+      "Collaborated in 5-person Agile team over 4 weeks to deliver efficient product",
+      "Incorporated 4 REST API endpoints for search with filters (genre, language, year, ratings)",
+      "Amplified search efficiency by 40% using Kotlin and Firebase",
+      "Enhanced UI/UX with peer feedback from 60+ person capstone demo session",
+      "Simulated 200+ users with dynamic filtering capabilities"
+    ],
+    "github": "https://github.com/MRGAN-codepath/AND101ShowBox",
+    "demo": ""
+  },
+  {
+    "id": "fruit-memory-game",
+    "title": "Fruit Memory Game",
+    "subtitle": "Interactive Memory Card Game",
+    "date": "Sep. 2025",
+    "categories": ["Mobile Development"],
+    "tech": ["Swift", "SwiftUI", "iOS Development"],
+    "highlights": [
+      "Memory card game testing skills with customizable pair sizes (2, 4, 6, 8)",
+      "Card flip animations with face-up/face-down toggle functionality",
+      "Automatic matching detection with card removal on successful pairs",
+      "Scrollable grid view for larger pair selections",
+      "Visual winning indicator and game reset functionality",
+      "Built in 2 hours with SwiftUI grid system and animations"
+    ],
+    "github": "https://github.com/NotAPlumber505/Fruit-Memory-Game",
+    "demo": "",
+    "video": "https://youtube.com/shorts/4t-AuS0OcGg?feature=share"
+  },
+  {
+    "id": "bonmot",
+    "title": "BonMot",
+    "subtitle": "Multi-Language Translation App",
+    "date": "Oct. 2025",
+    "categories": ["Mobile Development"],
+    "logo": "/assets/bonmot.webp",
+    "tech": ["Swift", "SwiftUI", "REST API", "iOS Development"],
+    "highlights": [
+      "Language translation app supporting German, Spanish, Italian, French, and English",
+      "REST API client integration for real-time translation queries",
+      "Persistent translation history with scroll view and erase functionality",
+      "Blurred background image overlays for polished UI design",
+      "Built in 4 hours demonstrating API integration skills"
+    ],
+    "github": "https://github.com/NotAPlumber505/BonMot",
+    "demo": "",
+    "video": "https://www.youtube.com/shorts/ddzdWMgBLLQ"
+  },
+  {
+    "id": "instaparse",
+    "title": "Instaparse Clone",
+    "subtitle": "Instagram-Style Social Media App",
+    "date": "iOS102 Project",
+    "categories": ["Mobile Development"],
+    "tech": ["Swift", "Storyboard", "PHPicker", "CLLocationManager", "iOS Development"],
+    "highlights": [
+      "Instagram clone with camera integration and photo library access",
+      "Comment system with user data (username, name) for social interaction",
+      "Location metadata extraction from photos using CLLocationManager",
+      "24-hour post filtering system with time-based visibility",
+      "PHPicker integration for photo selection and posting",
+      "Built in 10 hours with complex iOS frameworks and Storyboard UI"
+    ],
+    "github": "https://github.com/NotAPlumber505/Instaparse",
+    "demo": "",
+    "video": "https://youtube.com/shorts/qHssIg4sjQs?feature=share"
+  },
+  {
+    "id": "moodify",
+    "title": "Moodify",
+    "subtitle": "Mood-Based Music Recommendation",
+    "date": "SHA Career Project",
+    "categories": ["Data Visualization"],
+    "tech": ["Python", "Streamlit", "Machine Learning"],
+    "highlights": [
+      "Career-focused project demonstrating ML integration with Streamlit",
+      "Mood-based recommendation system for personalized music discovery",
+      "Interactive dashboard with real-time user feedback",
+      "Clean, intuitive UI built with Streamlit components"
+    ],
+    "github": "https://github.com/NotAPlumber505/Moodify-Spotify-Mood-Tracker",
+    "demo": "https://shacareerproject.streamlit.app/"
+  },
+  {
+    "id": "wsn-dashboard",
+    "title": "WSN Research Dashboard",
+    "subtitle": "Interactive Data Visualization Platform",
+    "date": "Feb. 2025 - Jul. 2025",
+    "categories": ["Data Visualization", "Research Tools", "AI & Machine Learning"],
+    "tech": ["Python", "Streamlit", "Pandas", "Plotly", "Machine Learning"],
+    "highlights": [
+      "Designed Streamlit web dashboard with dynamic controls for parameter filtering",
+      "Used Pandas and Plotly to visualize real-time and simulated datasets",
+      "Improved analysis speed by 30% through AI model integration",
+      "Enhanced usability for researchers with real-time data updates",
+      "NSF-funded research project on Wireless Sensor-Actuator Networks"
+    ],
+    "github": "https://github.com/iwsn2025/WSN-Parameter-Project",
+    "demo": "https://shacareerproject.streamlit.app/"
+  },
+  {
+    "id": "geektext",
+    "title": "GeekText",
+    "subtitle": "Online Bookstore API",
+    "date": "Jan. 2025 - Apr. 2025",
+    "categories": ["Full-Stack Web"],
+    "tech": ["Java", "Spring Boot", "MySQL", "REST API", "Postman"],
+    "highlights": [
+      "Developed RESTful APIs for user authentication, cart management, and book listings",
+      "Integrated MySQL and optimized queries to boost backend performance by 33%",
+      "Collaborated using Git, Agile/Scrum methodologies, and Postman for testing",
+      "5-person team collaboration on full-stack e-commerce platform"
+    ],
+    "github": "https://github.com/NotAPlumber505/GeekText-Group2",
+    "demo": ""
+  },
+  {
+    "id": "orchids-veil",
+    "title": "Orchid's Veil",
+    "subtitle": "2D Run-and-Gun Game",
+    "date": "Sep. 2024 - Dec. 2024",
+    "categories": ["Game Development"],
+    "logo": "/assets/orchidveil.webp",
+    "tech": ["Godot", "GDScript", "GitHub", "Game Design"],
+    "highlights": [
+      "Contributed to coding and logic for character powerups",
+      "Facilitated level design with enemy spawning locations and intervals",
+      "Developed fast-paced, rhythmic melodies for retro sound",
+      "3-level adventure with unique themes and level design",
+      "Collaborated via GitHub for project tracking and version control"
+    ],
+    "github": "https://github.com/SantiagoBoscan07/Project-Cypher",
+    "demo": "https://santiagoboscan.itch.io/orchids-veil"
+  },
+  {
+    "id": "dino-platformer",
+    "title": "2D Dinosaur Platformer",
+    "subtitle": "ShellHacks 2024 Submission",
+    "date": "Sep. 2024",
+    "categories": ["Game Development"],
+    "logo": "/assets/2D_Dino.webp",
+    "tech": ["Unity", "C#", "Git", "Game Development"],
+    "highlights": [
+      "Engineered character physics, movement, enemy logic, and level progression in C#",
+      "Delivered polished gameplay with animations and sound design",
+      "Collaborated with 2 teammates in Agile-style sprint",
+      "Based on ShellHacks 2024 mascots (Dinosaurs)",
+      "Built, tested, and refined game features on tight deadline"
+    ],
+    "github": "https://github.com/sonicrush/Dinosaur_Platformer",
+    "demo": "https://devpost.com/software/2d-dinosaur-platformer"
+  }
+]
