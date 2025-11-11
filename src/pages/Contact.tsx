@@ -1,4 +1,3 @@
-import React from "react";
 import { useTypingEffect } from "../hooks/useTypingEffect";
 import about from "../data/about.json";
 

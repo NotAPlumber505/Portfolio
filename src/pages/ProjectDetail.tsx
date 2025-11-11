@@ -1,4 +1,3 @@
-import React from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { useTypingEffect } from "../hooks/useTypingEffect";
 import projects from "../data/projects.json";

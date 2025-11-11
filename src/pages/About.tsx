@@ -1,4 +1,3 @@
-import React from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useShellNavigation } from "../hooks/useShellNavigation";
 import { useTypingEffect } from "../hooks/useTypingEffect";
