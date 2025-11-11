@@ -4,7 +4,7 @@ A modern, terminal-themed portfolio website showcasing projects, experience, and
 
 ## 🚀 Live Demo
 
-[View Live Site](https://your-portfolio-url.vercel.app)
+[View Live Site](https://mario-casas.vercel.app/)
 
 ## ✨ Features
 
