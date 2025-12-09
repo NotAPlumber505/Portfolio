@@ -1,19 +1,19 @@
 [
   {
     "id": "tech-talent",
-    "title": "Project Manager & Peer Advisor",
+    "title": "Project Manager Intern",
     "company": "FIU Tech Talent Academy",
-    "type": "Part-time",
-    "period": "Aug 2025 - Present",
-    "duration": "4 mos",
+    "type": "Internship",
+    "period": "Aug 2025 - Dec 2025",
+    "duration": "5 mos",
     "location": "Miami, FL · On-site",
     "highlights": [
-      "Mentored 15+ students contributing 30+ bug fixes, features, and documentation to Baserow (3k+ stars), an Airtable alternative",
-      "Delivered 5 end-to-end products on Baserow stack (Django, Nuxt.js, PostgreSQL, Docker)",
-      "Boosted onboarding and team velocity by 25% through structured sprints and CI/CD pipelines",
-      "Directed implementation of 30+ full-stack features across 5 Agile teams"
+      "Oversaw 5 student teams contributing data-driven features to an open-source application, guiding workflows, version control, and documentation to ensure production-quality deliverables",
+      "Reviewed and enhanced Django and Nuxt.js application features with PostgreSQL, improving data modeling and strengthening backend pipelines that supported real-time analytics for 100,000+ active users",
+      "Created contributor guides, demo videos, and technical docs that sped production workflows and improved cross-team clarity on analytics and automation workflows",
+      "Implemented project-level reporting dashboards and data pipelines, enabling standardized metrics across teams and demonstrating scalable practices for AI assistant-powered automations"
     ],
-    "skills": ["Django", "Nuxt.js", "PostgreSQL", "Docker", "Git", "Agile", "CI/CD"]
+    "skills": ["Django", "Nuxt.js", "PostgreSQL", "Docker", "Git", "Agile", "CI/CD", "Technical Documentation"]
   },
   {
     "id": "treasurer",
@@ -66,20 +66,18 @@
   },
   {
     "id": "nsf-research",
-    "title": "AI & IoT Research Engineer",
-    "company": "National Science Foundation (NSF)",
-    "type": "Part-time",
+    "title": "AI & IoT Research Intern",
+    "company": "National Science Foundation & Florida International University",
+    "type": "Internship",
     "period": "Feb 2025 - Jul 2025",
     "duration": "6 mos",
     "location": "Miami, FL · Remote",
     "highlights": [
-      "Increased dataset processing speed by 30% using parallel computing",
-      "Parsed 30,000+ rows across 6 ML models in under 1 second",
-      "Boosted IoT ML model confidence from 30% to 80%",
-      "Designed interactive Streamlit dashboard improving usability by 35%",
-      "Increased user satisfaction by 40% through modular APIs and automated testing"
+      "Built Streamlit dashboard visualizing 6 machine learning models with Plotly, enabling stakeholders to interpret sensor data trends and insights through intuitive, interactive visuals",
+      "Fine-tuned TensorFlow and PyTorch models to reach 80% prediction confidence by analyzing noisy environmental data, applying feature exploration and iterative model evaluation",
+      "Enhanced dashboard usability by 40% (survey results) through modular API design, structured data pipelines, and automated testing, improving clarity and consistency of analytical outputs"
     ],
-    "skills": ["Python", "TensorFlow", "PyTorch", "Streamlit", "Pandas", "Plotly"]
+    "skills": ["Python", "TensorFlow", "PyTorch", "Streamlit", "Pandas", "Plotly", "Data Visualization"]
   },
   {
     "id": "chibur",

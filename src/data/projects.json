@@ -1,5 +1,58 @@
 [
   {
+    "id": "interview-prep-bot",
+    "title": "Interview Prep Discord Bot",
+    "subtitle": "Automated Mock Interview Platform",
+    "date": "Nov. 2025 - Present",
+    "categories": ["Full-Stack Web", "AI & Machine Learning"],
+    "logo": "/assets/discordbot_logo.png",
+    "tech": ["Python", "Discord API", "GitHub Actions", "JSON", "Webhooks"],
+    "highlights": [
+      "Engineered fully automated mock-interview workflow matching students, provisioning private voice channels, and logging session metadata, enabling 100% autonomous interview cycles",
+      "Built ETL pipelines processing 300 internship/new-grad roles monthly using webhook triggers and JSON validation, delivering opportunities to 30+ active students",
+      "Organized rubric-based evaluation data with FAANG-standard scoring, improving consistency and creating ML-ready datasets for future performance prediction",
+      "Implemented logging, error handling, and automated tests ensuring uninterrupted data flow and reliable user experience for long-term scalability"
+    ],
+    "github": "",
+    "demo": ""
+  },
+  {
+    "id": "cnct",
+    "title": "CNCT",
+    "subtitle": "Campus Social Platform",
+    "date": "Oct. 2025 - Dec. 2025",
+    "categories": ["Full-Stack Web"],
+    "logo": "/assets/CNCT_logo.png",
+    "tech": ["TypeScript", "React", "Vite", "Tailwind", "Supabase", "PostgreSQL", "Node.js"],
+    "highlights": [
+      "Designed normalized Supabase/PostgreSQL models for users, posts, and buildings, enforcing relational integrity with entity-relationship modeling for scalable data management",
+      "Optimized multi-join feed and discovery queries with indexed lookups and hash/merge join algorithms, reducing latency by 10 seconds under high load",
+      "Implemented image storage with Supabase S3 buckets and automated moderation for secure, compliant media handling across platform",
+      "Built ETL workflows integrating campus buildings and events with schema validation, laying foundation for ML-based recommendations"
+    ],
+    "github": "https://github.com/duranmichael681/cnct.git",
+    "demo": "http://cnct-taupe.vercel.app/"
+  },
+  {
+    "id": "pet-your-rabbit",
+    "title": "Pet Your Rabbit",
+    "subtitle": "Virtual Pet Care & Progression Game",
+    "date": "Nov. 2025 - Dec. 2025",
+    "categories": ["Mobile Development", "Game Development"],
+    "logo": "/assets/Pet_This_Rabbit.png",
+    "tech": ["Swift", "SwiftUI", "Node.js", "PostgreSQL", "REST APIs", "Authentication"],
+    "highlights": [
+      "Developed cozy virtual pet game with touch interactions, petting physics, happiness/energy systems, and progression mechanics across 3-person Agile team",
+      "Built backend authentication system, global leaderboard, and cloud save functionality syncing user data and high scores in real-time",
+      "Implemented upgrade system with passive pets-per-minute generation and dynamic pricing curves that scale with ownership levels",
+      "Designed inventory management and cosmetic store with SwiftUI, featuring item effects on rabbit mood and customizable appearance options",
+      "Created engaging gameplay loop combining clicker mechanics with virtual pet care, encouraging consistency and emotional engagement"
+    ],
+    "github": "https://github.com/PetYourRabbit/PetYourRabbit",
+    "demo": "",
+    "video": "https://www.youtube.com/watch?v=m8teUQBlOKw"
+  },
+  {
     "id": "mirai",
     "title": "MirAI",
     "subtitle": "Scalable Plant Monitoring App",
@@ -19,17 +72,16 @@
   {
     "id": "ecoquest",
     "title": "EcoQuest",
-    "subtitle": "AI-Powered Educational Game",
+    "subtitle": "AI Educational Platform",
     "date": "Sep. 2025",
     "categories": ["Full-Stack Web", "Game Development", "AI & Machine Learning"],
     "logo": "/assets/ecoquest.png",
-    "tech": ["Google ADK", "Gemini API", "Python", "Next.js", "Phaser.js", "Tailwind"],
+    "tech": ["Python", "TypeScript", "Next.js", "Phaser.js", "Tailwind", "Google ADK", "Gemini API"],
     "highlights": [
-      "Led 4-person team at ShellHacks 2025 (1,400 participants) with daily standups and Trello task management",
-      "Presented to 10+ sponsors including Google, demonstrating AI-driven quest automation",
-      "Optimized JSON processing time by 10 seconds, reducing response latency by 25%",
-      "Developed 5+ Gemini API endpoints generating 200+ quests and fun facts with AI Agent Architecture",
-      "Generated dynamic content for 1,400+ users using lightweight LLMs"
+      "Directed 4-person team to deliver full-stack AI educational platform in 3 days, coordinating analytics-driven gameplay features and Agile sprints for rapid prototype delivery",
+      "Implemented REST APIs for adaptive quest logic and daily-changing biosystem data, enabling structured retrieval and visualization for 1,400 simulated players",
+      "Leveraged Google ADK and Gemini APIs to automatically generate quests and fun facts, reducing manual content updates while maintaining high educational value",
+      "Optimized JSON processing and API response times by 20 seconds, improving real-time gameplay performance and supporting scalable data flows for ML-driven content personalization"
     ],
     "github": "https://github.com/NotAPlumber505/EcoQuest",
     "demo": "https://devpost.com/software/ecoquest-9yqx0f"

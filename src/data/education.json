@@ -15,11 +15,11 @@
     "Capstone"
   ],
   "skills": {
-    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C/C++", "SQL", "Swift", "Kotlin", "HTML", "CSS"],
-    "frontend": ["React", "Next.js", "Nuxt.js", "Tailwind", "SwiftUI", "Streamlit"],
-    "backend": ["Node.js", "Express", "Django", "Flask", "Spring Boot", "REST APIs"],
-    "databases": ["MySQL", "PostgreSQL", "MongoDB"],
-    "devops": ["Docker", "Git/GitHub", "Jira", "Trello", "Postman", "Vite", "Faker.js"],
-    "ml": ["PyTorch", "TensorFlow", "pandas", "NumPy", "scikit-learn", "Matplotlib", "Plotly"]
+    "languages": ["Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "Swift", "Kotlin", "C", "HTML", "CSS"],
+    "frontend": ["React", "Tailwind CSS", "Vite", "Next.js", "Nuxt.js", "SwiftUI"],
+    "backend": ["Node.js", "Express", "Django", "Flask", "Firebase", "Spring Boot", "REST APIs", "Webhooks"],
+    "databases": ["MySQL", "PostgreSQL", "Supabase"],
+    "devops": ["Docker", "Git", "GitHub Actions", "Jira", "Trello", "Postman", "Linux", "Google Colab"],
+    "ml": ["PyTorch", "TensorFlow", "pandas", "NumPy", "scikit-learn", "Matplotlib", "Plotly", "Streamlit"]
   }
 }
