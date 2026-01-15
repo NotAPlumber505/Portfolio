@@ -1,11 +1,11 @@
 [
   {
     "id": "tech-talent",
-    "title": "Project Manager Intern",
+    "title": "Project Management Intern",
     "company": "FIU Tech Talent Academy",
     "type": "Internship",
-    "period": "Aug 2025 - Dec 2025",
-    "duration": "5 mos",
+    "period": "August 2025 - December 2025",
+    "duration": "4 mos",
     "location": "Miami, FL · On-site",
     "highlights": [
       "Oversaw 5 student teams contributing data-driven features to an open-source application, guiding workflows, version control, and documentation to ensure production-quality deliverables",
@@ -20,7 +20,7 @@
     "title": "Treasurer",
     "company": "Geek Culture Club - FIU",
     "type": "Part-time",
-    "period": "Jan 2025 - Present",
+    "period": "January 2025 - December 2025",
     "duration": "11 mos",
     "location": "Miami, FL · Hybrid",
     "highlights": [
@@ -36,8 +36,8 @@
     "title": "Teaching Assistant",
     "company": "FIU - College of Engineering & Computing",
     "type": "Part-time",
-    "period": "Jan 2025 - Sep 2025",
-    "duration": "9 mos",
+    "period": "January 2025 - September 2025",
+    "duration": "8 mos",
     "location": "Miami, FL · Hybrid",
     "highlights": [
       "Supported 60+ students in Java, C, and Python programming",
@@ -53,8 +53,8 @@
     "title": "Online Instructor",
     "company": "iD Tech Camps",
     "type": "Part-time",
-    "period": "May 2025 - Aug 2025",
-    "duration": "4 mos",
+    "period": "May 2025 - August 2025",
+    "duration": "3 mos",
     "location": "Campbell, CA · Remote",
     "highlights": [
       "Delivered 50+ hours of coding instruction to 25 students (ages 7-18)",
@@ -66,11 +66,11 @@
   },
   {
     "id": "nsf-research",
-    "title": "AI & IoT Research Intern",
+    "title": "AIoT Research Intern",
     "company": "National Science Foundation & Florida International University",
     "type": "Internship",
-    "period": "Feb 2025 - Jul 2025",
-    "duration": "6 mos",
+    "period": "February 2025 - July 2025",
+    "duration": "5 mos",
     "location": "Miami, FL · Remote",
     "highlights": [
       "Built Streamlit dashboard visualizing 6 machine learning models with Plotly, enabling stakeholders to interpret sensor data trends and insights through intuitive, interactive visuals",
@@ -84,8 +84,8 @@
     "title": "Graphic Design Intern",
     "company": "Chibur: The Connection Company",
     "type": "Internship",
-    "period": "Aug 2021 - Jun 2022",
-    "duration": "11 mos",
+    "period": "August 2021 - June 2022",
+    "duration": "10 mos",
     "location": "Cutler Bay, FL · Remote",
     "highlights": [
       "Designed 10+ custom logos and 20+ promotional flyers for startup clients",
