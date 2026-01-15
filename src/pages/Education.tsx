@@ -21,7 +21,7 @@ export default function Education() {
             <p className="text-xl text-[var(--fg)]">{education.degree.degree}</p>
             <p>📍 {education.degree.location}</p>
             <p>🎓 GPA: {education.degree.gpa}</p>
-            <p>📅 Expected: {education.degree.expected}</p>
+            <p>📅 Graduated: {education.degree.graduated}</p>
           </div>
           
           <div className="mt-4">
